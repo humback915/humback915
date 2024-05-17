@@ -20,8 +20,12 @@
 
 ## 💻 humback915's log 💻
 <div>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&labelColor=orange&color=orange">
-    <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white&labelColor=black&color=black">    
+    <a href="https://def-xyj.tistory.com/" target="_blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&labelColor=orange&color=orange">
+    </a>
+    <a href="https://github.com/humback915" target="_blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white&labelColor=black&color=black">    
+    </a>
 </div>
 
 ## 🔨 humback915's Skill 🔨
