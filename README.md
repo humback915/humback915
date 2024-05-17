@@ -5,6 +5,11 @@
 [![humback915's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=humback915&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![humback915's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=humback915&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <br></br>
+## 💻 humback915's log 💻
+<div>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&labelColor=orange&color=orange">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white&labelColor=black&color=black">    
+</div>
 
 ## 🔨 Skill 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
